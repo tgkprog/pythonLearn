@@ -1,5 +1,5 @@
 
-// ** For online compilers like jdoodle (https://www.jdoodle.com/online-java-compiler/) might need to comment the package line ** //
+
 package test;//any package name is fine
 
 //no imports just java.lang used.
@@ -28,11 +28,6 @@ package test;//any package name is fine
  *  no imports just java.lang used. For your problem also do not us java collections or any other classes. 
  * Use simple objects and classes that are in java.lang only.
  *
- * If have IDE, ignore this : Run in command prompt (not required if doing in IDE or online compiler):
- * cd c:\j
- * c:
- * javac c:\j\IcyHot.java
- * java IcyHot
  *
  */
 public class IcyHot {
