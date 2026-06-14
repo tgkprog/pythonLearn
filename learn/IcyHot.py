@@ -53,7 +53,7 @@ class IcyHot:
     # def test_round_sum(a, b, c, expected): ...
     #
     # Example below assumes target signature:
-    #     boolean icyHot(int temp1, int temp2)
+    #     boolean icyHot( temp1, temp2)
     #
     # This function works for this target. But for you, its a sample. The actual number of parameters and parameter types,
     # for your test helper, will depend on the parameters of your target function, their type and return type.
